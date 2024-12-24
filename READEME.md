@@ -1,5 +1,7 @@
 # Phase 3 Project: Customer Churn Prediction for SyriaTel
 
+![alt text](tellecom_art.webp)
+
 ## Overview
 This project develops a binary classification model to predict customer churn for SyriaTel, a telecommunications company. The model aims to:
 - Identify customers likely to churn.
