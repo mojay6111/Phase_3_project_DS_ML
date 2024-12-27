@@ -49,8 +49,10 @@ This project develops a binary classification model to predict customer churn fo
 - Correlation heatmap for feature selection.  
 
 ### Visualizations:
-- Bar plots for churn rate by `international plan` and `voice mail plan`.  
+- Bar plots for churn rate by `international plan` and `voice mail plan`. 
+- Churn rate by intl plan 
   ![Churn rate by intl plan](churn_rate_by_intl_plan.png)
+- Churn rate by voice mail plan
   ![Churn rate by voice mail plan](churn_rate_by_voice_mail_plan.png)
 - Correlation heatmap.  
   ![correlation heatmap](correlation_heatmap.png)
